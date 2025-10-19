@@ -3,7 +3,7 @@
 
 - 💬 How to reach me: vutran.513@gmail.com | ben@goldenowl.asia
 
-- 🌞 I regularly write articles on [https://medium.com/@bentranz](https://medium.com/@bentranz)
+<!-- - 🌞 I regularly write articles on [https://medium.com/@bentranz](https://medium.com/@bentranz) -->
 
 - 🌀 Ask me about: rails | nestjs | reactjs | aws | terraform | k8s
 
